@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [2325-decode-the-message](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
 ## String
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
