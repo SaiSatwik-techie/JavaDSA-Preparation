@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
@@ -74,7 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
