@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0766-toeplitz-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
