@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0766-toeplitz-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
