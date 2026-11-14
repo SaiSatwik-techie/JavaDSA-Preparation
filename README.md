@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0766-toeplitz-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/3945-digit-frequency-score) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
@@ -120,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SaiSatwik-techie/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
